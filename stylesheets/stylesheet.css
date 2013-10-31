@@ -34,6 +34,10 @@ kbd {
     font-family: monospace;
     font-weight: bold;
 }
+#sns {
+    margin: 20px;
+}
+
 ol, ul {
 	list-style: none;
   margin-left: 2em;
