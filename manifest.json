@@ -1,6 +1,6 @@
 {
     "name": "Recipe search",
-    "version": "0.9",
+    "version": "1.0",
     "omnibox": { "keyword": "rs" },
     "background": {
         "persistent": false,
